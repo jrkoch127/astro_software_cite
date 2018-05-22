@@ -1,0 +1,25 @@
+## Turn off acronyms?
+
+# PlasmaPy
+q=("plasmapy OR PlasmaPy")
+q=("Plasma Py")
+q=("plasma py")
+q=("AstroBlend OR astroblend")
+q=("Astro Blend")
+q=("astro blend")
+
+# CIAO/Sherpa
+q=("CIAO OR ciao")
+q=("Sherpa OR sherpa")
+q=("CIAO OR Sherpa")
+q=("CIAO OR sherpa")
+q=("ciao OR sherpa")
+q=("ciao OR Sherpa")
+q=("CIAO AND Sherpa")
+q=("CIAO AND sherpa")
+q=("ciao AND sherpa")
+q=("ciao AND Sherpa")
+
+
+
+
