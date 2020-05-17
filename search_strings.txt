@@ -20,6 +20,16 @@ q=("CIAO AND sherpa")
 q=("ciao AND sherpa")
 q=("ciao AND Sherpa")
 
+# DS9
+q=("ds9 OR DS9")
+q=("SAOImage AND DS9")
+q=("SAOImage AND ds9")
 
+# Houdini
+q=("Houdini OR houdini")
+
+# spec2D
+q=("spec2D")
+q=("spec2D AND DEIMOS")
 
 
